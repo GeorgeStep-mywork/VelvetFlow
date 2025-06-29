@@ -1,2 +1,0 @@
-# VelvetFlow
- Boutique Management System
